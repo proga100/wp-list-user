@@ -29,7 +29,9 @@ if( !is_textdomain_loaded( 'wp-list-user' ) ) {
 require_once 'user-list-table.php';
 if (is_admin()) {
     new Paulund_Wp_List_Table();
+     require_once 'user-reports.php';
     require_once 'user-form.php';
+
 }
 
 /**
