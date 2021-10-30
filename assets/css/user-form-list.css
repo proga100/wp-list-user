@@ -1,0 +1,27 @@
+.user-list-form .input-group {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+    background: #f1ecec;
+}
+
+.user-list-form input.btn.btn-success {
+    float: right;
+}
+
+.input-group-btn {
+    padding-left: 3px;
+}
+
+input.form-control.lms-date {
+    margin-top: 10px;
+}
+
+button.btn.btn-success.add-more {
+    width: 80px;
+}
+
+input.btn.btn-success {
+    width: 80px;
+}
